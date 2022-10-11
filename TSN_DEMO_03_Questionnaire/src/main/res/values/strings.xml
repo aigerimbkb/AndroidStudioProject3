@@ -1,0 +1,44 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">TSN_DEMO_03_Questionnaire</string>
+
+    <!-- Текстовые константы -->
+    <string name="Приветсвие">Добро пожаловать!</string>
+
+    <string name="Кто_Вы">Кто вы?</string>
+    <string name="Введите_ФИО">введите сюда свое ФИО</string>
+    <string name="Укажите_пол">Укажите пол:</string>
+    <string name="мужчина">Мужчина</string>
+    <string name="женщина">Женщина</string>
+
+    <string name="Выберите_образование">Выберите образование:</string>
+    <string name="высшее">высшее</string>
+    <string name="среднее">среднее</string>
+    <string name="начальное">начальное</string>
+
+
+    <string name="Ваша_стана">Ваша страна:</string>
+    <string name="Вперед">Вперед</string>
+
+
+
+    <string name="Сводные_данные">Сводные данные:</string>
+    <string name="Вы">Вы:</string>
+    <string name="Ваш_пол">Ваш пол:</string>
+    <string name="Ваше_образование">Образование:</string>
+    <string name="Страна">Страна:</string>
+
+
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+
+    <!-- Массив строк -->
+    <string-array name="country_arrays">
+        <item>Казахстан</item>
+        <item>Россия</item>
+        <item>Америка</item>
+        <item>Германия</item>
+        <item>Франция</item>
+    </string-array>
+
+</resources>
