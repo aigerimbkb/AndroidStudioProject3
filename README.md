@@ -2,9 +2,11 @@
 
 **Многооконная программа (TSN_DEMO_03_Questionnaire):**
 
-![Screenshot](screenshot1.png)
+![Screenshot](1screenshot.png)
 
-![Screenshot](screenshot2.png)
+![Screenshot](2screenshot.png)
+
+![Screenshot](3screenshot.png)
 
 All rights reserved.
 
